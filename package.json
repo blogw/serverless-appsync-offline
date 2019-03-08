@@ -28,7 +28,7 @@
     "test": "jest --no-cache"
   },
   "dependencies": {
-    "@conduitvc/appsync-emulator-serverless": "https://github.com/blogw/appsync-emulator-serverless",
+    "appsync-emulator-serverless": "https://github.com/blogw/appsync-emulator-serverless",
     "aws-sdk": "^2.395.0",
     "lodash": "^4.17.11"
   },
